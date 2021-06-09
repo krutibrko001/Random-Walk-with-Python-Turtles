@@ -1,3 +1,3 @@
 # Random-Walk-with-Python-Turtles
 
-<h2>Fun with Turtle graphics</h2>
+Fun with Turtle graphics - Simple Python project, check out main.py to see the source code.
